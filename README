@@ -1,0 +1,17 @@
+1.Ca in 2048 original fiecare celula din joc
+   are o culoare specifica data de valoarea sa
+
+2. Daca utilizatorul va accesa modulul resume
+ fara a incepe un joc in prealabil va fi
+   afisat un mesaj de eroare.
+
+3. Mesajele MENU, YOU WIN, GAMEOVER, au o
+   afisare specifica, steregorafica.
+
+4. In dependenta de valoare maxima de pe tabla
+   de joc utilizatorului i se atribuie un nivel
+   afisat steregrafic linga tabla de joc.
+   Nivele: NOOB, PRO, GOD.
+
+pentru a rula codul executati: make run
+in order to start the game execute: make run
